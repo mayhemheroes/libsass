@@ -1,0 +1,4 @@
+project: PROJECT
+target: data_context_fuzzer
+cmds:
+- cmd: /out/data_context_fuzzer
