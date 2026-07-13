@@ -1,0 +1,5 @@
+project: libsass
+target: data_context_fuzzer
+
+cmds:
+  - cmd: /mayhem/data_context_fuzzer
